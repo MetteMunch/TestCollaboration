@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hej Luna");
 
         System.out.println("Hej tilbage til dig Mette");
+        System.out.println("Nu bliver der fejl med Merge mulighed");
 
 
 
