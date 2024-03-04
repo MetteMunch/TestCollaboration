@@ -9,8 +9,13 @@ public class Main {
         System.out.println("Hej tilbage til dig Mette");
         System.out.println("Nu bliver der fejl med Merge mulighed");
 
+        System.out.println("Lad os prøve en gang til");
 
 
+
+
+
+        System.out.println("Vi tester total løs nu");
 
     }
 }
