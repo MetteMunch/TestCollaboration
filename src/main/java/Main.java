@@ -12,7 +12,7 @@ public class Main {
         System.out.println("Lad os prøve en gang til");
 
 
-
+        System.out.println("MMH tekst");
 
 
         System.out.println("Vi tester total løs nu");
