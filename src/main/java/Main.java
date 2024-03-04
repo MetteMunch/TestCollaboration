@@ -7,5 +7,10 @@ public class Main {
         System.out.println("Ny konflikt");
         System.out.println("Ny konflikt sdfsggh");
 
+
+        System.out.println("Merge konflikt");
+
+        System.out.println("Vi tester total løst nu");
+
     }
 }
