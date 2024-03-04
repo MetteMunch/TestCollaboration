@@ -8,5 +8,8 @@ public class Main {
 
         System.out.println("Vi tester total løst nu");
 
+
+        System.out.println("Vi tester total løst nu");
+
     }
 }
