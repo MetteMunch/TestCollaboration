@@ -9,8 +9,10 @@ public class Main {
         System.out.println("Hej tilbage til dig Mette");
 
         System.out.println("Lad os prøve en gang til");
+        System.out.println("Får vi de her updates");
 
 
+        System.out.println("Tester igennem igen igen");
 
 
 
