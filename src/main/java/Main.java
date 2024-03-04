@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Hej hej");
         System.out.println("Hej Luna");
 
+        System.out.println("Hej tilbage til dig Mette");
+
 
 
 
