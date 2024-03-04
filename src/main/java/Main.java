@@ -3,5 +3,8 @@ public class Main {
         System.out.println("Hej med jer");
         System.out.println("Hej hej");
 
+
+        System.out.println("Merge konflikt");
+
     }
 }
