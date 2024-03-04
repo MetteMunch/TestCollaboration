@@ -5,6 +5,7 @@ public class Main {
 
 
         System.out.println("Ny konflikt");
+        System.out.println("Ny konflikt sdfsggh");
 
     }
 }
